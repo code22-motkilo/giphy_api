@@ -1,0 +1,51 @@
+
+body {
+  padding: 0;
+
+  margin: 0;
+
+  background-color: silver;
+  color: gold;
+}
+
+h1 {
+  padding: 100px 0;
+
+  font-size: 75px;
+
+}
+
+.jumbotron {
+  /* height of the jumbotron*/
+  height: 250px;
+
+  /* jumbotron style */
+  background-color: black;
+  color: gold;
+  /* Jumbotron Text */
+  text-align: center;
+}
+
+
+#buttons-section {
+  width: 100%;
+  height: 100px;
+  background-color: #e80000;
+
+}
+
+.topic-button {
+  float: left;
+  background-color: #ff1f1f;
+  color: black;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 8px; 
+  border: 2px solid black;
+  margin: 4px 2px;
+}
+
+#topic-form {
+  color: black;
+}
+
